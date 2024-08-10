@@ -1,2 +1,4 @@
 # Latest-Roblox-Account-Finder
-Very simple python script that uses Roblox API to find the latest Roblox account. It iterates through every digit of possible user id one by one, making API requests to check if the account with this id exists. Currently it posts 10 requests, each with 10 ids in it. I can make it to post only 5 requests, because the Roblox API endpoint I use allows up to 100 ids, but im too lazy to make the script iterate through 2 digits instead of 1. The script then prints the ID and username of the latest user found.
+This is a simple Python script that utilizes the Roblox API to discover the most recent Roblox account. It achieves this by methodically going through each digit of a potential user ID, making API requests to check for the existence of accounts with those IDs.
+
+Currently, it sends 10 requests, each with 10 IDs. I could optimize it to send only 5 requests, as the Roblox API endpoint allows up to 100 IDs per request, but I'm feeling a bit lazy about making the script iterate through two digits instead of just one. The script then displays the ID and username of the newest account found.
