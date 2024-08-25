@@ -3,6 +3,7 @@ This is a simple Python script that utilizes the Roblox API to discover the most
 
 Currently, it sends 10 requests, each with 10 IDs. I could optimize it to send only 5 requests, as the Roblox API endpoint allows up to 100 IDs per request, but I'm feeling a bit lazy about making the script iterate through two digits instead of just one. The script then displays the ID and username of the newest account found.
 
+A demonstration of how it works:
 ```
 [1/10] roblox_user_7000000000 (7000000000)
 [2/10] hsksgsojsban (7200000000)
