@@ -5,7 +5,7 @@ Currently, it sends 10 requests, each with 10 IDs. I could optimize it to send o
 
 A demonstration of how it works:
 ```
-[1/10] roblox_user_7000000000 (7000000000)
+[1/10] roblox_user_7000000000 (7000000000)  <-- A username like this may indicate that the user has been banned
 [2/10] hsksgsojsban (7200000000)
 [3/10] adgjmtpw6 (7260000000)
 [4/10] JAZZY4k4 (7261000000)
